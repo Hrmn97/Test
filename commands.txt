@@ -1,0 +1,1 @@
+git log -> It will show logs of version control history that are being in commited from staging area
